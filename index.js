@@ -84,4 +84,4 @@ async function banner(userId, client, { dynamicFormat = true, defaultFormat = "w
     return baseUrl + `.${defaultFormat}` + query;
 }
 
-client.login('OTU1MTU3OTc3Mjg1OTE4NzMw.YjdmLw.dWXkN_Tgk1MyZsg8npWNgwm5mVs');
+client.login('OTU1MMyZsg8npWNgwm5mVs');
